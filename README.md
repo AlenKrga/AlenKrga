@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Alen</h1><br><h3 align="center">A full stack developer from Ireland</h3><br><br>- 🌱 I’m currently learning **React**<br><br>- ⚡ Fun fact **I created my first website in 2001.**
+<h1 align="center">Hi 👋, I'm Alen</h1><br><h3 align="center">A full stack developer from Ireland</h3><br><br>- 🌱 I’m currently learning **React**<br><br>- ⚡ Fun fact **I created my first website in 1998.**
 
 
 ## 🌐 Socials:
